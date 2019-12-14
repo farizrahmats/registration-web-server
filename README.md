@@ -4,16 +4,18 @@ To Run the application. If you have PHP installed locally and you would like to 
 
 
 php artisan serve
-
-
+<br>
+<br>
 
 First you need to migrate database to edit .env file and enter our database credentials:
 
 DB_DATABASE=YOUR_DB
+
 DB_USERNAME=YOUR_USERNAME
+
 DB_PASSWORD=YOUR_PASSWORD
-
-
+<br>
+<br>
 
 
 Then run the migration to create the table:
